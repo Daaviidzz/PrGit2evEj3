@@ -10,7 +10,6 @@ public class Empleado {
         edad+=1;
     }
 
-
     private String nombre;
     private int edad;
     private double sueldo;
